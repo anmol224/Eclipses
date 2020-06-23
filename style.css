@@ -218,7 +218,11 @@ a
 }
 @media(max-width:800px)
 {
-  
+  #showcase .video-container
+    {   
+        background-size:cover;
+        background-attachment:fixed;
+    }
     #showcase .content
     {
         font-size: 20px;
