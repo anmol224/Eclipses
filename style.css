@@ -218,6 +218,10 @@ a
 }
 @media(max-width:800px)
 {
+    #showcase
+    {   
+        overflow:hidden;
+    }
   #showcase .video-container
     {   
         background-size:cover;
