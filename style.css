@@ -242,6 +242,10 @@ a
         justify-content: center;
         text-align: center;
     }
+    #about .youtube iframe
+    {
+        width:340px;
+    }
     #time
     {
         font-size: 20px;
