@@ -19,7 +19,7 @@ const int=setInterval(() => {
     let distance;
     distance=lnch-today;
     
-    console.log(distance)
+    
     let days=Math.floor(distance/(1000*60*60*24));
     let hrs=Math.floor((distance%(1000*60*60*24))/(1000*60*60));
     let min=Math.floor((distance%(1000*60*60))/(1000*60));
