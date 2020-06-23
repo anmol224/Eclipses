@@ -218,6 +218,11 @@ a
 }
 @media(max-width:800px)
 {
+   #time div
+    {
+        margin:6px;
+        padding: 7px;
+    }
     #showcase
     {   
         overflow:hidden;
