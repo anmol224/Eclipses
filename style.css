@@ -241,6 +241,7 @@ a
         flex-direction: column;
         justify-content: center;
         text-align: center;
+        margin-left:15px;
     }
     #about .youtube iframe
     {
