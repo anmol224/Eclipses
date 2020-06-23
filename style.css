@@ -224,8 +224,7 @@ a
     }
   #showcase .video-container
     {   
-        background-size:cover;
-        background-attachment:fixed;
+       width:100vw;
     }
     #showcase .content
     {
